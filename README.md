@@ -297,9 +297,3 @@ This lab improved understanding of:
 - Sourcetype Identification
 - SIEM Fundamentals
 
----
-
-
-✅ Data Searchable
-
-✅ Ready for SOC Investigation Labs
